@@ -1,0 +1,10 @@
+safetensors
+safetensors[jax]
+transformers
+ipykernel
+torch
+numpy
+jax
+tensorflow
+accelerate>=0.26.0
+ipywidgets
